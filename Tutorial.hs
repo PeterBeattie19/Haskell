@@ -8,7 +8,7 @@ addition = 5 + 4
 multiplication = 5 * 4
 subtraction = 5 - 4
 division = 10 / 2
-
+   
 num9 = 9 :: Int
 sqrt9 = sqrt(fromIntegral num9) 
 
